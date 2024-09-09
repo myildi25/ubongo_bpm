@@ -1,0 +1,5 @@
+moviepy
+librosa
+pandas
+numpy
+streamlit
